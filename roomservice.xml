@@ -6,7 +6,7 @@
   <project name="adriansian/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="bliss" />
   <project name="adriansian/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" revision="bliss" />
   <!--Hardware-->
-  <project name="adriansian/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
   <!--Blobs-->
   <project name="adriansian/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="bliss" />
   <!--Kernel-->
