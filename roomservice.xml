@@ -10,5 +10,5 @@
   <!--Blobs-->
   <project name="synt4x93/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-17.1" />
   <!--Kernel-->
-  <project name="flar2/starlte" path="kernel/samsung/universal9810" remote="github" revision="ElementalX-3.00" />
+  <project name="adriansian/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" revision="lineage-17.1" />
 </manifest>
