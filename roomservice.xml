@@ -11,4 +11,6 @@
   <project name="BlissRoms-Devices/proprietary_vendor_samsung" path="vendor/samsung" remote="github" clone-depth="1" revision="q" />
   <!--Kernel-->
   <project name="diepquynh/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" clone-depth="1" revision="tw10-android-4.9-q" />
+  <!--Kernel Patches-->
+  <project name="adriansian/AOSPpatches" path="kernel/samsung/universal9810" remote="github" revision="master" />
 </manifest>
