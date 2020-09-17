@@ -10,5 +10,5 @@
   <!--Vendor-->
   <project name="BlissRoms-Devices/proprietary_vendor_samsung" path="vendor/samsung" remote="github" clone-depth="1" revision="q" />
   <!--Kernel-->
-  <project name="Havoc-Devices/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" clone-depth="1" revision="4.9.x_upstream />
+  <project name="Havoc-Devices/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" clone-depth="1" revision="4.9.x_upstream" />
 </manifest>
