@@ -6,7 +6,7 @@
   <project name="ResurrectionRemix-Devices/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" clone-depth="1" revision="Q" />
   <project name="ResurrectionRemix-Devices/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" clone-depth="1" revision="Q" />
   <!--Hardware-->
-  <project name="BlissRoms/platform_hardware_samsung" path="hardware/samsung" remote="github" clone-depth="1" revision="q" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" clone-depth="1" revision="lineage-17.1" />
   <!--Vendor-->
   <project name="BlissRoms-Devices/proprietary_vendor_samsung" path="vendor/samsung" remote="github" clone-depth="1" revision="q" />
   <!--Kernel-->
