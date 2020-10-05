@@ -6,7 +6,7 @@
   <project name="BlissRoms-Devices/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" clone-depth="1" revision="q" />
   <project name="BlissRoms-Devices/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" clone-depth="1" revision="q" />
   <!--Hardware-->
-  <project name="Stricted/android_hardware_samsung" path="hardware/samsung" remote="github" clone-depth="1" revision="lineage-18.0" />
+  <project name="garett09/android_hardware_samsung" path="hardware/samsung" remote="github" clone-depth="1" revision="lineage-18.0" />
   <!--Vendor-->
   <project name="BlissRoms-Devices/proprietary_vendor_samsung" path="vendor/samsung" remote="github" clone-depth="1" revision="q" />
   <!--Kernel-->
