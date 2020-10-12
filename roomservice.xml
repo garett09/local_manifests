@@ -6,7 +6,7 @@
   <project name="garett09/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" clone-depth="1" revision="ten" />
   <project name="garett09/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" clone-depth="1" revision="ten" />
   <!--Hardware-->
-  <project name="PixelExperience-Devices/android_hardware_samsung" path="hardware/samsung" remote="github" clone-depth="1" revision="ten" />
+  <project name="PixelExperience-Devices/hardware_samsung" path="hardware/samsung" remote="github" clone-depth="1" revision="ten" />
   <!--Vendor-->
   <project name="garett09/proprietary_vendor_samsung" path="vendor/samsung" remote="github" clone-depth="1" revision="q" />
   <!--Kernel-->
