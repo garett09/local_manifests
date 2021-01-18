@@ -6,9 +6,9 @@
   <project name="garett09/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" clone-depth="1" revision="eleven" />
   <project name="garett09/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" clone-depth="1" revision="eleven" />
   <!--Hardware-->
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" clone-depth="1" revision="lineage-18.1" />
+  <project name="garett09/android_hardware_samsung" path="hardware/samsung" remote="github" clone-depth="1" revision="elevenn" />
   <!--Vendor-->
   <project name="synt4x93/proprietary_vendor_samsung" path="vendor/samsung" remote="github" clone-depth="1" revision="lineage-18.1" />
   <!--Kernel-->
-  <project name="garett09/kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" clone-depth="1" revision="lineage-18.1" />
+  <project name="garett09/kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" clone-depth="1" revision="4.9.118_stock" />
 </manifest>
